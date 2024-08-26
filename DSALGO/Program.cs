@@ -7,13 +7,13 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Fibonacci Sequence using Loops:");
-        for (int i = 0; i < 20; i++)
+        for (int i = 0; i < 40; i++)
         {
             Console.Write(FibonacciLoop(i) + " ");
         }
 
         Console.WriteLine("\n\nFibonacci Sequence using Recursion:");
-        for (int i = 0; i < 20; i++)
+        for (int i = 0; i < 40; i++)
         {
             Console.Write(FibonacciRecursion(i) + " ");
         }
