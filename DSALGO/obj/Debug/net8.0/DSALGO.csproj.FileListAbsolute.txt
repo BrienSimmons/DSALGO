@@ -1,0 +1,15 @@
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\bin\Debug\net8.0\DSALGO.exe
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\bin\Debug\net8.0\DSALGO.deps.json
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\bin\Debug\net8.0\DSALGO.runtimeconfig.json
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\bin\Debug\net8.0\DSALGO.dll
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\bin\Debug\net8.0\DSALGO.pdb
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\DSALGO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\DSALGO.AssemblyInfoInputs.cache
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\DSALGO.AssemblyInfo.cs
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\DSALGO.csproj.CoreCompileInputs.cache
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\DSALGO.sourcelink.json
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\DSALGO.dll
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\refint\DSALGO.dll
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\DSALGO.pdb
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\DSALGO.genruntimeconfig.cache
+C:\Users\Student-35\Documents\GitHub\DSALGO\DSALGO\obj\Debug\net8.0\ref\DSALGO.dll
