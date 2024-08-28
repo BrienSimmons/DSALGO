@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSALGO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42db9bba0c229aa037b2868d77c9884ca3f4e460")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31de866f83f77399fe61522e9460c481e46d1812")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSALGO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSALGO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
